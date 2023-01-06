@@ -250,9 +250,11 @@ footer{
 }
 footer h4{
 	color: #FF5959;
-	font-size: 28px;
+	font-size: 32px;
+	letter-spacing: 2px;
+	font-family: 'Lobster', cursive;
 }
 footer p{
-	margin-top: 15px;
-	color: #fff;
+	margin-top: 20px;
+	color: #bdbbbb;
 }
